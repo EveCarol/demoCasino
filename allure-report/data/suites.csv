@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat May 11 17:38:02 CST 2024","Sat May 11 17:38:17 CST 2024","14172","","signUp\sign.up.with.phone.promo.code.spec.ts","","","","004: Validar elementos en sign Up usando un correo electronico y eligiendo la opcion promo code @regression",""
+"passed","Sat May 11 17:37:13 CST 2024","Sat May 11 17:37:34 CST 2024","20571","","signUp\sign.up.with.email.no.bonus.spec.ts","","","","001: Validar elementos en sign Up usando un correo electronico y eligiendo la opcion no bonus @regression",""
+"passed","Sat May 11 17:37:48 CST 2024","Sat May 11 17:38:02 CST 2024","14466","","signUp\sign.up.with.phone.no.bonus.spec.ts","","","","003: Validar elementos en sign Up usando un correo electronico y eligiendo la opcion no bonus @regression",""
+"passed","Sat May 11 17:37:34 CST 2024","Sat May 11 17:37:48 CST 2024","13949","","signUp\sign.up.with.email.promo.code.spec.ts","","","","002: Validar elementos en sign Up usando un correo electronico y eligiendo la opcion no bonus @regression",""
